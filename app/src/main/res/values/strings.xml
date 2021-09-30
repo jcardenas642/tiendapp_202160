@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TiendApp</string>
+    <string name="txt_titulo_inicio">Inicio de Sesión</string>
+    <string name="hint_correo">Escriba su correo</string>
+    <string name="hint_password">Escriba su contraseña</string>
+    <string name="txt_btn_iniciar">Iniciar</string>
+    <string name="txt_btn_registrar_usuario">Registrar Usuario</string>
+    <string name="txt_titulo_listado">Listado de Productos</string>
+    <string name="txt_titulo_detalle">Detalle: %1s</string>
+    <string name="txt_titulo_formulario_aregar">Agregar Producto</string>
+    <string name="hint_nombre_producto">Escriba el nombre del producto</string>
+    <string name="hint_precio_producto">Escriba el precio del producto</string>
+    <string name="hint_descripcion_producto">Escriba la descripción del producto</string>
+    <string name="txt_btn_agregar_producto">Agregar Producto</string>
+    <string name="txt_btn_eliminar">Eliminar</string>
+    <string name="txt_btn_editar">Editar</string>
+    <string name="txt_titulo_formulario_editar">Editar Producto</string>
+    <string name="txt_nombre_preferencias">preferencias</string>
+    <string name="txt_prefencia_login">login</string>
+    <string name="txt_mi_cerrar_sesion">Cerrar Sesión</string>
+</resources>
